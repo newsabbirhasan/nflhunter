@@ -6,9 +6,8 @@ body {
     position: relative;
     background-color: #000000;
     background-repeat: repeat;
-}
     height: 100%;
-    color: #a4a8a4;
+    color: #fff;
     font-size: 14px;
     font-family: "Inter", sans-serif
 }
